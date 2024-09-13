@@ -1,0 +1,2 @@
+# World-Military-Power-Clustering-Analysis
+ This project aims to conduct a clustering analysis of the military capabilities of countries around the world. The data includes various military and economic factors such as air power, submarine fleets, defense budgets, and manpower. The result of this analysis will group countries with similar military capacities, providing deeper insights into their relative military strengths.
